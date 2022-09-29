@@ -13,6 +13,16 @@ One of the major differences between voltage and current is that the voltage is 
 |        Field Created |                   Magnetic Field                   |           Electrostatic Field          |
 |                Types |        Alternating voltage & Direct voltage        | Alternating Current and Direct Current |
 
+Here are two excellent Sparkfun videos to help us understand these concepts better:
+
+### What is Voltage?
+
+[![IMAGE_ALT](https://img.youtube.com/vi/z8qfhFXjsrw/0.jpg)](https://www.youtube.com/watch?v=z8qfhFXjsrw)
+
+### What is Current?
+
+[![IMAGE_ALT](https://img.youtube.com/vi/kYwNj9uauJ4/0.jpg)](https://www.youtube.com/watch?v=kYwNj9uauJ4)
+
 ## 🤓 Overview and learning outcomes 
 
 The goal of this lab assignment is to demonstrate how the concepts of voltage and current differ.   The [Circuit Simulator App](https://thumbsdb.herokuapp.com/circuit/) will be used to help understand these concepts. 🚀
