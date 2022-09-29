@@ -19,7 +19,7 @@ Here are two excellent Sparkfun videos to help us understand these concepts bett
 
 [![IMAGE_ALT](https://img.youtube.com/vi/z8qfhFXjsrw/0.jpg)](https://www.youtube.com/watch?v=z8qfhFXjsrw)
 
-### What is Current?
+### What is Electric Current?
 
 [![IMAGE_ALT](https://img.youtube.com/vi/kYwNj9uauJ4/0.jpg)](https://www.youtube.com/watch?v=kYwNj9uauJ4)
 
